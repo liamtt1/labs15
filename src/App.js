@@ -2,6 +2,7 @@ import React, { useReducer, useState } from 'react';
  
 import logo from './logo.svg';
 import './App.css';
+// Cambio realizado para evidencia del Paso 14 - Lab 15
 
 const formReducer = (state, event) => {
  return {
